@@ -1,0 +1,14 @@
+.myfarms
+{
+    min-height: 175px; opacity:0.6;font-size: 20px;cursor:pointer;
+    color: #000000; border: 2px solid grey;
+}
+.myfarms2
+{
+    min-height: 175px; opacity:1;font-size: 20px;cursor:pointer;
+    color: #000000; border: 2px solid grey;
+}
+.activefarm
+{
+    opacity:1;
+}
